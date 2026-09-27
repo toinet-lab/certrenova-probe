@@ -1,3 +1,5 @@
+> **Contributions are no longer accepted.** This project is archived.
+
 # Contributing to CertRenova Probe
 
 Thanks for your interest. A few rules keep this project safe to publish and

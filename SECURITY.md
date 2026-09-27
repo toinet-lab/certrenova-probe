@@ -1,3 +1,6 @@
+> **Unsupported.** This project is archived and no longer receives security
+> fixes. New vulnerability reports will not be acted on.
+
 # Security Policy
 
 ## Reporting a vulnerability
