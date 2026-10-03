@@ -1,5 +1,10 @@
 # CertRenova Probe
 
+> **This project is no longer maintained.** It was archived on 2026-09-28
+> and will not receive bug fixes or security updates, including the known
+> STARTTLS buffering issue (#27). The code and existing releases remain
+> available under the MIT license.
+
 **Find the certificate on your mail server before it expires.**
 
 *Formerly `certflow`. The command and Go module are now `certrenova-probe`.*
@@ -227,21 +232,11 @@ CertRenova Probe stays a read-only inventory tool. It will not grow into a certi
 manager: issuance, renewal, and deployment belong to a separate tool that imports
 this one as a library.
 
-## Contributing
+## Project status
 
-Bug reports and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md)
-and [AGENTS.md](AGENTS.md) — the latter is the rule set for both human and AI
-contributors, and covers licensing, security, and the design invariants above.
-
-Security issues: see [SECURITY.md](SECURITY.md). Please report them privately.
-
-## Commercial support
-
-CertRenova Probe is free and MIT-licensed, with no limits.
-
-Paid support is available — not only for CertRenova Probe, but for the infrastructure it
-looks at: mail systems, directory services, DNS, and certificate operations on
-enterprise Linux.
+This repository is archived and read-only. Issues and pull requests are
+closed, and no further releases are planned. You are free to fork it under
+the terms of the MIT license.
 
 ## License
 
